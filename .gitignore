@@ -1,0 +1,4 @@
+# Godot 4+ specific ignores
+.godot/
+
+./rust/silica_engine/target/
