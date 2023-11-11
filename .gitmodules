@@ -1,0 +1,3 @@
+[submodule "rust/silica-engine"]
+	path = rust/silica-engine
+	url = https://github.com/skynse/silica-engine
